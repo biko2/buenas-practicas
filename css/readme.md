@@ -17,5 +17,26 @@ Un artículo que explica el motivo de los [namespace en los nombres de estilos](
 
 Nos ayuda a construir una arquitectura del código CSS lo más fácilmente mantenible y evolucionable. 
 
+La organización base en carpetas es:
+
+* **01_settings**: Variables globales, configuración, colores, etc.
+* **02_tools**: Mixins y funciones helpers
+* **03_generic**: Estilos para unificar visualización en navegadores e impresoras y declaración de fuentes.
+* **04_elements**: Estilos a etiquetas de html
+* **05_objects**: Patrones de layouts sin aspecto visual
+* **06_components**: Componentes de interfaz
+* **07_themes**: Estilos para cambiar el aspecto de componentes y elementos en base a la clase del theme.
+* **08_pages**: Estilos específicos de una página
+* **09_utilities**: Estilos de ayuda
+
+### Patrones de nombres
+
+Para ayudar a identificar el objetivo de una clase concreta, seguiremos el siguiente patrón:
+
+* `c-breadcrum`: Los clases de **componentes** comienzan por `c-`
+* `u-margin-top`: Las clases de **utilidad** comienzan por `u-`
+* `o-media`: Las clases de **objetos** comienzan por `o-`
+
+
 Recursos:
 * [Post de xfive](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
