@@ -26,7 +26,7 @@ La organización base en carpetas es:
 * **05_objects**: Patrones de layouts sin aspecto visual
 * **06_components**: Componentes de interfaz
 * **07_themes**: Estilos para cambiar el aspecto de componentes y elementos en base a la clase del theme.
-* **08_pages**: Estilos específicos de una página
+* **08_specifics**: Estilos específicos de partes de una página que aún no se ha encontrado el patrón para convertirlo en componente. 
 * **09_utilities**: Estilos de ayuda
 
 ### Patrones de nombres
@@ -36,7 +36,7 @@ Para ayudar a identificar el objetivo de una clase concreta, seguiremos el sigui
 * `c-breadcrum`: Los clases de **componentes** comienzan por `c-`
 * `u-margin-top`: Las clases de **utilidad** comienzan por `u-`
 * `o-media`: Las clases de **objetos** comienzan por `o-`
-
+* `s-some`: Las clases de estilos **específicos** comienzas por `s-`
 
 Recursos:
 * [Post de xfive](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
