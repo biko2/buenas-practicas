@@ -59,6 +59,9 @@ Recursos:
 ## Iniciación
 
 * Introducción a HTML y CSS:
+  * [Cursos interactivos en Code Cademy](https://www.codecademy.com/learn/all)
+  * [Curso interactivo de introducción a HTML y CSS en Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+  * [Curso interactivo de introducción a HTML/CSS en KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css)
   * http://librosweb.es/libro/xhtml/ 
   * http://librosweb.es/libro/css/
   * http://librosweb.es/libro/css_avanzado/
@@ -70,7 +73,8 @@ Recursos:
   * http://learn.shayhowe.com/html-css/
 
 ## Avanzado
-  * Blog de Harry Roberts: http://csswizardry.com/
-  * Code snippets para aprender, analizar y jugar: http://codepen.io/
-  * Conocer la compatibilidad de características en los diferentes navegadores web: http://caniuse.com/
-  
+  * [Curso interactivo sobre fundamentos de diseño web responsivo](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+  * [Blog de Harry Roberts](http://csswizardry.com/)
+  * [codepen.io](http://codepen.io/): Code snippets para aprender, analizar y jugar: 
+  * [caniuse.com](http://caniuse.com/): Conocer la compatibilidad de características en los diferentes navegadores web: 
+
